@@ -6,8 +6,6 @@
 > ⚠️ **ВАЖНО: ЭТО НЕ МОД!**
 > Это приложение никак не внедряется в код игры и не изменяет его. Оно лишь читает текстовые файлы логов извне. **Вы не можете получить бан** за его использование ни на одном сервере.
 <p><img src="screenshots/main.png" width="600"></p>
-<p><img src="screenshots/ingame.png" width="600"></p>
-<p><img src="screenshots/setting.png" width="600"></p>
 
 Desktop overlay translator for Minecraft chat, built with Kotlin/JVM and Swing.
 Десктопный оверлей-переводчик для чата Minecraft, созданный на Kotlin/JVM и Swing.
@@ -18,6 +16,8 @@ It provides mechanical (machine) translation of `latest.log` in real time. It ex
 🔥 **Automatic Chat Typing / Автоматический ввод в чат:** The app supports outgoing translation! You can type in your native language directly into the overlay, and the program will automatically translate and type it directly into the Minecraft chat.
 Приложение поддерживает исходящий перевод! Вы можете писать на своем родном языке прямо в оверлей, а программа автоматически переведет и отправит этот текст прямо в чат Minecraft.
 
+<p><img src="screenshots/ingame.png" width="600"></p>
+ 
 ## 🌐 Supported Languages | Поддерживаемые языки
 The mechanical translation works with dozens of languages, including but not limited to:
 Механический перевод работает с десятками языков, включая (но не ограничиваясь):
@@ -31,6 +31,8 @@ The mechanical translation works with dozens of languages, including but not lim
 * Japanese (Японский)
 * Portuguese (Португальский)
 * Turkish (Турецкий)
+
+<p><img src="screenshots/setting.png" width="600"></p>
 
 ## 🚀 Highlights | Ключевые особенности
 

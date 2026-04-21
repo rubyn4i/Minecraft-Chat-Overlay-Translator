@@ -5,7 +5,7 @@
 > 
 > ⚠️ **ВАЖНО: ЭТО НЕ МОД!**
 > Это приложение никак не внедряется в код игры и не изменяет его. Оно лишь читает текстовые файлы логов извне. **Вы не можете получить бан** за его использование ни на одном сервере.
-
+<p align="center"><img src="screenshots/main.png" width="600"></p>
 Desktop overlay translator for Minecraft chat, built with Kotlin/JVM and Swing.
 Десктопный оверлей-переводчик для чата Minecraft, созданный на Kotlin/JVM и Swing.
 

@@ -1,7 +1,7 @@
 # Minecraft Chat Overlay Translator 🌍💬
 
 > ⚠️ **IMPORTANT: THIS IS NOT A MOD!**
-> This application does not inject into or modify the game code in any way. It only reads log files externally. **You cannot get banned** for using this on any server (including Hypixel, Arizona, etc.).
+> This application does not inject into or modify the game code in any way. It only reads log files externally. **You cannot get banned** for using this on any server (including Hypixel, etc.).
 > 
 > ⚠️ **ВАЖНО: ЭТО НЕ МОД!**
 > Это приложение никак не внедряется в код игры и не изменяет его. Оно лишь читает текстовые файлы логов извне. **Вы не можете получить бан** за его использование ни на одном сервере.

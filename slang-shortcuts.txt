@@ -1,0 +1,277 @@
+# Minecraft Chat Overlay Translator slang dictionary
+# The file is UTF-8. Edit it if you want to add your own shortcuts.
+# Format:
+# [language-code]
+# shortcut = full phrase
+#
+# The [custom] section is for your own slang, server terms, and mod terms.
+# It is always applied first, so you can override built-in meanings.
+# You can also create [custom.en], [custom.ru], [custom.uk], etc.
+# The [common] section is applied to every language after custom rules.
+# Language-specific sections are applied only when the source language matches.
+
+[custom]
+# Write your own server or mod slang here.
+# Examples for Pixelmon / Pokemon servers:
+nfe = not fully evolved
+ha = hidden ability
+ub = ultra beast
+
+[custom.en]
+# English-only custom slang example:
+# mon = pokemon
+
+[common]
+idk = I don't know
+ikr = I know, right
+iirc = if I remember correctly
+imo = in my opinion
+imho = in my humble opinion
+afaik = as far as I know
+fyi = for your information
+icymi = in case you missed it
+btw = by the way
+tbh = to be honest
+ngl = not gonna lie
+fr = for real
+frfr = for real
+istg = I swear to God
+rn = right now
+atm = at the moment
+asap = as soon as possible
+nvm = never mind
+idc = I don't care
+np = no problem
+yw = you are welcome
+kk = okay
+ty = thank you
+tysm = thank you so much
+thx = thanks
+pls = please
+plz = please
+brb = be right back
+bbl = be back later
+bbs = be back soon
+afk = away from keyboard
+gtg = got to go
+ttyl = talk to you later
+omw = on my way
+lmk = let me know
+dw = do not worry
+wyd = what are you doing
+wya = where are you
+wdym = what do you mean
+wym = what do you mean
+wbu = what about you
+hmu = hit me up
+dm = direct message
+pm = private message
+msg = message
+irl = in real life
+lol = laughing out loud
+lmao = laughing very hard
+lmfao = laughing extremely hard
+rofl = rolling on the floor laughing
+xd = laughing
+wtf = what the heck
+wth = what the heck
+omg = oh my God
+smh = shaking my head
+jk = just kidding
+ily = I love you
+ilysm = I love you so much
+gg = good game
+ggs = good games
+ggwp = good game well played
+gl = good luck
+hf = have fun
+glhf = good luck have fun
+wp = well played
+nt = nice try
+sus = suspicious
+bruh = bro
+sry = sorry
+soz = sorry
+cya = see you
+sup = what is up
+bc = because
+cuz = because
+tho = though
+grats = congratulations
+gz = congratulations
+wtb = want to buy
+wts = want to sell
+lf = looking for
+lfg = looking for group
+inv = invite
+tp = teleport
+tpa = teleport request
+tpahere = teleport to me request
+tpaccept = accept teleport request
+gts = global trade system
+coords = coordinates
+coord = coordinate
+ivs = individual values
+evs = effort values
+lvl = level
+w/ = with
+w/o = without
+
+[en]
+tyty = thank you very much
+gr8 = great
+b4 = before
+l8r = later
+ffs = for goodness sake
+ftw = for the win
+
+[ru]
+кста = кстати
+крч = короче
+спс = спасибо
+спсб = спасибо
+пасиб = спасибо
+пж = пожалуйста
+пжлст = пожалуйста
+пжста = пожалуйста
+плиз = пожалуйста
+нзч = не за что
+хз = не знаю
+имхо = по моему скромному мнению
+мб = может быть
+го = давай
+ща = сейчас
+щас = сейчас
+лан = ладно
+норм = нормально
+прив = привет
+ку = привет
+сорри = извини
+изи = легко
+жиза = жизненно
+чзх = что за черт
+ппц = капец
+ор = очень смешно
+рофл = очень смешно
+лс = личные сообщения
+чел = человек
+оч = очень
+ток = только
+
+[uk]
+крч = коротше
+дяк = дякую
+дякс = дякую
+пж = будь ласка
+шо = що
+хз = не знаю
+імхо = на мою скромну думку
+мб = може бути
+го = ходімо
+щас = зараз
+прив = привіт
+ку = привіт
+сорі = вибач
+нзч = нема за що
+норм = нормально
+
+[fr]
+slt = salut
+bjr = bonjour
+bsr = bonsoir
+svp = s'il vous plaît
+stp = s'il te plaît
+dsl = désolé
+jsp = je ne sais pas
+tkt = ne t'inquiète pas
+mdr = mort de rire
+ptdr = plié de rire
+pk = pourquoi
+pq = pourquoi
+pcq = parce que
+qqn = quelqu'un
+qqch = quelque chose
+dac = d'accord
+cv = ça va
+a+ = à plus tard
+
+[de]
+ka = keine Ahnung
+kp = kein Plan
+vlt = vielleicht
+iwie = irgendwie
+lg = liebe Grüße
+hdl = hab dich lieb
+hdgdl = hab dich ganz doll lieb
+gn8 = gute Nacht
+
+[es]
+xq = porque
+pq = porque
+porfa = por favor
+xfa = por favor
+tkm = te quiero mucho
+tqm = te quiero mucho
+ntp = no te preocupes
+ns = no sé
+bn = bien
+dnd = de nada
+qtl = qué tal
+salu2 = saludos
+tb = también
+tmb = también
+
+[pl]
+nwm = nie wiem
+spk = spoko
+dzieki = dziękuję
+dziex = dziękuję
+pzdr = pozdrawiam
+elo = cześć
+siema = cześć
+zw = zaraz wracam
+cb = ciebie
+bd = będzie
+kc = kocham cię
+nmzc = nie ma za co
+
+[tr]
+slm = selam
+mrb = merhaba
+nbr = ne haber
+tmm = tamam
+hyr = hayır
+evt = evet
+eyw = eyvallah
+kib = kendine iyi bak
+grsz = görüşürüz
+sa = selamün aleyküm
+as = aleyküm selam
+knk = kanka
+
+[pt]
+vc = você
+vcs = vocês
+pq = porque
+tb = também
+tbm = também
+blz = beleza
+vlw = valeu
+obg = obrigado
+obgd = obrigado
+pfv = por favor
+ctz = certeza
+tmj = estamos juntos
+qdo = quando
+qnd = quando
+flw = falou
+sqn = só que não
+
+[ja]
+りょ = 了解
+よろ = よろしく
+おつ = お疲れさま
+あり = ありがとう
+こん = こんにちは
+乙 = お疲れさま
+wktk = わくわく
